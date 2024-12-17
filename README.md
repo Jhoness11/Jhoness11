@@ -1,9 +1,9 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Jhon Steven Garcia Plaza 👋
 
 🚀 **Programador Junior en Formación | Buga, Valle del Cauca, Colombia**  
 📱 **Apasionado por la Tecnología Móvil, Realidad Aumentada, Proyectos Innovadores y Desarrollo Web.**
 
-Soy un desarrollador apasionado por la tecnología y la gestión de software. Me encanta crear soluciones innovadoras para problemas del mundo real, desde las aplicaciones para proyectos sostenibles.
+Soy un desarrollador apasionado por la tecnología y la gestión de software. Me encanta crear soluciones innovadoras para problemas del mundo real.
 
 ---
 
@@ -22,13 +22,9 @@ Soy un desarrollador apasionado por la tecnología y la gestión de software. Me
 ## 🚀 Proyectos destacados con mi centro de estudios
 
 ### 🌆 SGU (Sistema de Gestión Urbana)  
-🔗 [Repositorio de SGU](#)  
+🔗 [Repositorio de SGU]()  
 Desarrollo de una aplicación móvil en Expo que gestiona la administración urbana y conecta a los ciudadanos con zonas interactivas en Buga. Utiliza React Native y Firebase para manejar la gestión de datos y la interacción con usuarios.
-Una app desarrollada en **React Native**, que incluye funcionalidades como:
-
-- Pantallas con navegación eficiente: `SignInScreen`, `SignUpScreen`, `MainScreen`, `PerfilScreen`, entre otras.
-- Barra fija de navegación para una experiencia más intuitiva.
-- Estilos organizados en archivos dedicados, como `PerfilScreenStyles.js`.
+Una app desarrollada en **React Native**.
 
 ### ChatBot con WatsonAI (IBM)
 🔗 [Repositorio](#)  
@@ -36,6 +32,11 @@ Desarrollo de un  chatbot de respuestas ya cerradas y las cuales las respuestas 
 
 ### Pastillero virtual
 Un proyecto desarrollado en **Java** con AS, enfocado en la gestión y recordatorio de medicamentos.
+
+### Linea purpura  
+🔗 [Pàgina Web](linea-purpura-production.up.railway.app)  
+Desarrollo de una pàgina web para la Secretaria de la mujer en Buga - Valle. Se creo con el fin de brindar lineas de atención de transporte y cuidado psicojuridico a las mujeres de la ciudad,en caso de no sentirse seguras fuera de su zona de comfort**.
+
 
 
 ---
