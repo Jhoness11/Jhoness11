@@ -1,49 +1,41 @@
 # ¡Hola! Soy [Tu Nombre] 👋
 
 🚀 **Programador Junior en Formación | Buga, Valle del Cauca, Colombia**  
-📱 **Apasionado por la Tecnología Móvil, Realidad Aumentada, Proyectos Innovadores y Desarrollo Front-End.**
+📱 **Apasionado por la Tecnología Móvil, Realidad Aumentada, Proyectos Innovadores y Desarrollo Web.**
 
-Soy un desarrollador apasionado por la tecnología y la gestión de software. Me encanta crear soluciones innovadoras para problemas del mundo real, desde aplicaciones móviles hasta proyectos sostenibles.
+Soy un desarrollador apasionado por la tecnología y la gestión de software. Me encanta crear soluciones innovadoras para problemas del mundo real, desde las aplicaciones para proyectos sostenibles.
 
 ---
 
 ## 📊 Áreas de experiencia
 
-🖥️ **Lenguajes**: Java, JavaScript, HTML, CSS, Python, C++, Scheme.  
-🚀 **Frameworks**: React, React Native, Expo.  
-💾 **Bases de datos**: MySQL, Firebase, GoogleCloud.  
-🎨 **Diseño UX/UI**: Figma.  
-🛠️ **Versionamiento**: Git, GitHub.  
-📲 **Desarrollo móvil**: Android con Java, Android Studio, Expo para aplicaciones multiplataforma.  
-🧑‍💻 **Metodologías**: Scrum, gestión ágil de proyectos.
+🖥️ **Lenguajes**: Java, JavaScript, HTML, CSS, Python, C++.  
+🚀 **Frameworks**: React, Angular.  
+💾 **Bases de datos**: MySQL, Firebase.  
+🎨 **Diseño UX/UI**: Figma, Framer.  
+🛠️ **Versionamiento**: Git, GitHub, GitLab.  
+📲 **Desarrollo móvil**: Android con Java en Android Studio, Expo para aplicaciones multiplataforma, ReatNative, Flutter.  
+🧑‍💻 **Metodologías**: Scrum, PairProgramming.
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Proyectos destacados con mi centro de estudios
 
 ### 🌆 SGU (Sistema de Gestión Urbana)  
 🔗 [Repositorio de SGU](#)  
 Desarrollo de una aplicación móvil en Expo que gestiona la administración urbana y conecta a los ciudadanos con zonas interactivas en Buga. Utiliza React Native y Firebase para manejar la gestión de datos y la interacción con usuarios.
-
-### Simple ChatBot  
-🔗 [Repositorio](#)  
-Desarrollo de un simple chatbot de respuestas ya cerradas y las cuales ya poseen respuesta, haciéndolo fácil de integrar y escalable.
-
-### Aplicación de gestión urbana
 Una app desarrollada en **React Native**, que incluye funcionalidades como:
 
 - Pantallas con navegación eficiente: `SignInScreen`, `SignUpScreen`, `MainScreen`, `PerfilScreen`, entre otras.
 - Barra fija de navegación para una experiencia más intuitiva.
 - Estilos organizados en archivos dedicados, como `PerfilScreenStyles.js`.
 
+### ChatBot con WatsonAI (IBM)
+🔗 [Repositorio](#)  
+Desarrollo de un  chatbot de respuestas ya cerradas y las cuales las respuestas son con un banco de IA, haciéndolo fácil de integrar y escalable.
+
 ### Pastillero virtual
-Un proyecto desarrollado en **Java**, enfocado en la gestión y recordatorio de medicamentos. Incluye:
-
-- Clase principal: `WelcomeActivity` para la pantalla de bienvenida.
-- Interfaces amigables y adaptadas a diferentes tipos de usuarios.
-
-### Script de integración de datos
-Automatización de la inserción de datos desde tablas de Excel hacia sistemas de gestión de bases de datos (SGBD). Este script procesa fila por fila de manera eficiente.
+Un proyecto desarrollado en **Java** con AS, enfocado en la gestión y recordatorio de medicamentos.
 
 
 ---
