@@ -34,7 +34,7 @@ Un proyecto desarrollado en **Java** con AS, enfocado en la gestión y recordato
 
 ### Linea purpura  
 🔗 [Pàgina Web](https://linea-purpura-production.up.railway.app/)  
-Desarrollo de una pàgina web para la Secretaria de la mujer en Buga - Valle. Se creo con el fin de brindar lineas de atención de transporte y cuidado psicojuridico a las mujeres de la ciudad,en caso de no sentirse seguras fuera de su zona de comfort**.
+Desarrollo de una pàgina web para la Secretaria de la mujer en Buga - Valle. Se creo con el fin de brindar lineas de atención de transporte y cuidado psicojuridico a las mujeres de la ciudad,en caso de no sentirse seguras fuera de su zona de comfort.
 
 
 
