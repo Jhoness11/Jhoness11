@@ -22,7 +22,7 @@ Soy un desarrollador apasionado por la tecnología y la gestión de software. Me
 ## 🚀 Proyectos destacados con mi centro de estudios
 
 ### 🌆 SGU (Sistema de Gestión Urbana)  
-🔗 [Repositorio de SGU]()  
+🔗 [Repositorio de SGU](https://github.com/Juandoqg/SGU)  
 Desarrollo de una aplicación móvil en Expo que gestiona la administración urbana y conecta a los ciudadanos con zonas interactivas en Buga. Utiliza React Native y Firebase para manejar la gestión de datos y la interacción con usuarios.
 Una app desarrollada en **React Native**.
 
